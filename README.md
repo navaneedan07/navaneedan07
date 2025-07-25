@@ -19,11 +19,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me <br>                   <br>                  Navaneedan S, Student at Madras institute of technology. Have a Basic knowledge of C</h3>
+<h3 align="left">👩‍💻  About Me <br>                   <br>                  Navaneedan S, Student at Madras institute of technology. <br>                Intermediate coder in C,C++,Java programming languages</h3>
 
 ###
 
-<p align="center">Good at analysing, reasoning, and logical thinking</p>
+<p align="center">Good at problem solving, analysing, reasoning, and logical thinking</p>
 
 ###
 
