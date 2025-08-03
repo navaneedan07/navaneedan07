@@ -13,7 +13,7 @@ java,cpp,c,vscode,git
 ## Top Projects
 
 
-- [Smart-file-scanner](https://github.com/navaneedan07/Smart-file-scanner): Currently working project. ⭐️ 2 stars | Language: Java
+- [Smart-file-scanner](https://github.com/navaneedan07/Smart-file-scanner): ⭐️ 2 stars | Language: Java
 
 ## GitHub Stats
 
