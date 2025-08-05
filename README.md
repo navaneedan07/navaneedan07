@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Navaneedan S, a passionate developer dedicated to creating efficient and innovative solutions. I enjoy tackling challenges and continuously learning new technologies.
+I'm Navaneedan S, a passionate software developer dedicated to creating efficient and innovative solutions. I enjoy tackling challenges and continuously learning new technologies.
 
 ## About Me
 
