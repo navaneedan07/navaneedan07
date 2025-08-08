@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 I'm a curious and methodical developer who thrives on solving algorithmic puzzles and building efficient, scalable software.  
-I specialize in Java and C++, and I love contributing to open-source projects like **TheAlgorithms/Java** and **UniversalMediaServer**.
+I specialize in Java and C++, and I love contributing to open-source projects.
 
 - 🔍 Focused on clean code, modular design, and platform-aware programming  
 - 🧩 Enjoys logic-heavy challenges like Minesweeper solvers and constraint satisfaction problems  
