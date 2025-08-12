@@ -93,5 +93,5 @@ I specialize in Java and C++, and I love contributing to open-source projects.
 ---
 
 <div align="center">
-  <sub>✨ Built with curiosity, caffeine, and a dash of sarcasm  ✨</sub>
+  <sub>✨  Built with curiosity, caffeine, and a dash of sarcasm  ✨</sub>
 </div>
