@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Navaneedan S</h1>
-  <p><em>Passionate Software Developer | Open-Source Contributor | Code Optimizer</em></p>
+  <p><em>Machine Leaning | AI Enthusiast | Full Stack Developer</em></p>
   <img src="https://img.shields.io/github/followers/navaneedan07?style=social" alt="GitHub Followers">
   <img src="https://img.shields.io/github/stars/navaneedan07?style=social" alt="GitHub Stars">
 </div>
