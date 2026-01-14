@@ -29,18 +29,20 @@ I specialize in Java and C++, and I love contributing to open-source projects.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" alt="solidity"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="Pytorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="nodejs"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" alt="MATLAB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
 </p>
 
 ---
 
 ## 🚀 Featured Work
 
-- 🛠️ Enhanced **YoutubeDl encoder** in UniversalMediaServer with yt-dlp fallback  
-- 🧠 Explored **Minesweeper solver logic** using deduction and probability  
+- 🛠️ Created **Bigram-language-Model** with Pytorch
+- 🧠 Working on **Openhub** project 
 - 📦 Implemented **ReverseStringUsingStack** in TheAlgorithms/Java  
 - 🧵 Refactored and optimized Java utilities in personal repositories
 
@@ -58,8 +60,8 @@ I specialize in Java and C++, and I love contributing to open-source projects.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navaneedan07&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navaneedan07&theme=radical" alt="Profile Summary"/>
+  <img width="320px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navaneedan07&theme=radical" alt="Top Languages"/>
+  <img width="650px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navaneedan07&theme=radical" alt="Profile Summary"/>
 </p>
 
 ---
@@ -73,22 +75,22 @@ I specialize in Java and C++, and I love contributing to open-source projects.
 ## 📬 Connect with Me
 
 <p align="center">
- <a href="https://github.com/navaneedan07" style="background-color:#ffffff; border-radius:8px; padding:4px;">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
-</a>
 
   <a href="https://www.hackerrank.com/navaneedannavee1">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" width="40" height="40"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/navaneedanlotf/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1200px-GeeksforGeeks.svg.png" alt="GeeksforGeeks" width="40" height="40"/>
   </a>
+  
   <a href="https://leetcode.com/u/navaneedan-s/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/navaneedan-s-b20bb931a/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  
 </p>
 
 
