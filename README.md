@@ -10,10 +10,10 @@
 ## 🧠 About Me
 
 I'm a curious and methodical developer who thrives on solving algorithmic puzzles and building efficient, scalable software.  
-I specialize in Java and C++, and I love contributing to open-source projects.
+I specialize in Java, C, C++, Python, HTML, CSS, JS, and I love contributing to open-source projects.
 
 - 🔍 Focused on clean code, modular design, and platform-aware programming  
-- 🧩 Enjoys logic-heavy challenges like Minesweeper solvers and constraint satisfaction problems  
+- 🧩 Enjoys logic-heavy challenges like constraint satisfaction problems  
 - 🌱 Always learning and refining skills through collaborative coding
 
 ---
