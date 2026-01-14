@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>👋 Hi, I'm Navaneedan S</h1>
+    <h1>👋 Hi, I'm Navaneedan S</h1>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRkaGdzaWVibnhkZnVyczllYWN1cHF5Zmw4cXo1Y2hwMTlkajVpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif"/>
   <p><em>Machine Leaning | AI Enthusiast | Full Stack Developer</em></p>
   <img src="https://img.shields.io/github/followers/navaneedan07?style=social" alt="GitHub Followers">
   <img src="https://img.shields.io/github/stars/navaneedan07?style=social" alt="GitHub Stars">
